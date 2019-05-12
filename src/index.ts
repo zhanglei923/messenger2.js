@@ -6,7 +6,7 @@ if ((<any>window).addEventListener) {
     (<any>window).attachEvent("onmessage", ()=>{})
 }
 
-
+listener.a()
 
 // var a=1;
 
