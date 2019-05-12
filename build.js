@@ -6,7 +6,7 @@ let pathutil = require('path')
 let config = require('./webpack.config.dev')
 let compiler = webpack(config);
 compiler.run((err, stats) => {
-    console.log('err', err)
+    console.log('err', err, stats)
 });
 
 // config = require('./webpack.config.prod')
