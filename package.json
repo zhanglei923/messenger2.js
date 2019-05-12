@@ -1,0 +1,27 @@
+{
+  "name": "messenger2",
+  "version": "1.0.0",
+  "description": "Still under developing: 1. support ts. 1. reliability optimized.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ts-loader": "^6.0.0",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanglei923/messenger2.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanglei923/messenger2.js/issues"
+  },
+  "homepage": "https://github.com/zhanglei923/messenger2.js#readme"
+}
